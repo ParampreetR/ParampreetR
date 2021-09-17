@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/12615039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12615039" height="30" width="40" /></a>
 <a href="https://medium.com/@param6789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@param6789" height="30" width="40" /></a>
+<a href="https://telegram.me/ParampreetR" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="ParampreetR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
