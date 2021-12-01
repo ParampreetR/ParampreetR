@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parampreetr&label=Profile%20views&color=0e75b6&style=flat" alt="parampreetr" /> </p>
 
-- 🔭 I’m currently working on [Creative Rust](https://github.com/ParampreetR/Creative_Rust)
+- 🔭 I’m currently working on [pakit-rust](https://github.com/ParampreetR/pakit-rust)
 
-- 🌱 I’m currently learning **Rust and PyQt5**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **expressjs or python scripting**
 
 - 📫 How to reach me **raja.rai6789@gmail.com**
 
-- ⚡ Fun fact **I just like silence.**
+- ⚡ Fun fact **I wrote lot of hello world programs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
