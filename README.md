@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **raja.rai6789@gmail.com**
 
-- ⚡ Fun fact **I wrote lot of hello world programs**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/12615039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12615039" height="30" width="40" /></a>
