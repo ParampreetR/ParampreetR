@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **expressjs or python scripting**
 
-- 📫 How to reach me **raja.rai6789@gmail.com**
+- 📫 How to reach me **parampreetsrai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
